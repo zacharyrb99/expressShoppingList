@@ -1,0 +1,23 @@
+{
+  "name": "express-shopping-list",
+  "version": "1.0.0",
+  "description": "JSON API that stores a shopping list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyrb99/expressShoppingList.git"
+  },
+  "author": "zacharyrb99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharyrb99/expressShoppingList/issues"
+  },
+  "homepage": "https://github.com/zacharyrb99/expressShoppingList#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^6.1.4"
+  }
+}
